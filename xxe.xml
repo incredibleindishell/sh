@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE replace [<!ENTITY ent "b0x"> ]>
 <rss version="2.0">
 
 <channel>
@@ -11,7 +12,7 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
+    <title>&ent;</title>
     <link>http://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
